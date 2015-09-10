@@ -1,0 +1,55 @@
+{
+  "name": "staticsmith-branch",
+  "description": "A staticsmith plugin to run separate middleware pipelines on selected files",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/codePile/StaticSmith-Branch.git"
+  },
+  "version": "0.1.0",
+  "license": "GPL-3.0",
+  "main": "lib/staticsmith-branch.js",
+  "dependencies": {
+    "ware": "~1.3.0",
+    "multimatch": "^2.0.0",
+    "clone": "^1.0.2",
+    "debug": "~0.7.4"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.2",
+    "@codepile/staticsmith": "1.0.0",
+    "@codepile/staticsmith-templates": "^0.1.0",
+    "@codepile/staticsmith-remarkable": "^0.1.0",
+    "async": "~1.4.2",
+    "assert-dir-equal": "1.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/codePile/StaticSmith-Branch/issues"
+  },
+  "homepage": "https://github.com/codePile/StaticSmith-Branch",
+  "_from": "staticsmith-branch@0.1.0",
+  "_npmVersion": "1.4.6",
+  "_npmUser": {
+    "name": "codePile",
+    "email": "developer.support@codepile.org"
+  },
+  "maintainers": [
+    "codePile <developer.support@codepile.org>",
+    "celticparser <jason.kennedy@codepile.org"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "_shasum": "",
+  "_resolved": "developer.support@codepile.org",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pipelines",
+    "middleware",
+    "static",
+    "oceanpress",
+    "codepile"
+  ],
+  "author": "Jason Alan Kennedy"
+}
