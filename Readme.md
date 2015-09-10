@@ -1,5 +1,7 @@
 # StaticSmith-Branch
 
+[![Join the chat at https://gitter.im/codePile/StaticSmith-Branch](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/codePile/StaticSmith-Branch?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/codePile/StaticSmith-Branch.svg)](https://travis-ci.org/codePile/StaticSmith-Branch) 
 
   A [StaticSmith][staticsmith] module to run separate middleware pipelines on 
